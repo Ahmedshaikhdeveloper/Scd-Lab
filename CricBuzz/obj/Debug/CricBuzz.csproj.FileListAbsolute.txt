@@ -1,0 +1,37 @@
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.exe.config
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.exe
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.pdb
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csprojAssemblyReference.cache
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form1.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Properties.Resources.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csproj.GenerateResource.cache
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csproj.CoreCompileInputs.cache
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.exe
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.pdb
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form2.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form3.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form4.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form5.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form6.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form7.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form10.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form8.resources
+C:\Users\HK YOUNG WOLF\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form9.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.exe.config
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.exe
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\bin\Debug\CricBuzz.pdb
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form1.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form10.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form2.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form3.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form4.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form6.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form7.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form8.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Form9.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.exe
+C:\Users\muham\OneDrive\Desktop\CricBuzz OOP\CricBuzz\obj\Debug\CricBuzz.pdb
